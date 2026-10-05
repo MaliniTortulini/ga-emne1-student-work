@@ -1,0 +1,4 @@
+Itmes: Epler
+Amount: 20
+Price: 96,50
+Kommentar: Husk blÃ¥bÃ¦r og grÃ¸tKommentar: Husk blåbær og grøt
