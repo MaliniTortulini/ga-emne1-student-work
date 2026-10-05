@@ -10,9 +10,9 @@ print(total)
 print(price_per_person)
 
 
-#oppgave i timen
+#oppgave 1: regn ut kostnaden per person
 total_cost = 1023
 number_of_people = 5
 
 cost_per_person = total_cost / number_of_people
-print(f"It costs {cost_per_person} per person")
+print(f"It costs {cost_per_person:.2f} per person")
