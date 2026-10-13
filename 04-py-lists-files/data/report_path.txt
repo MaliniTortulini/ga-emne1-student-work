@@ -1,0 +1,3 @@
+Count: 4
+Sum: 464.40
+Average: 116.10
