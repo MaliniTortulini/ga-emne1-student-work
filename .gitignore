@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .env
 .env*
-/11-pysql-flask/01-lesson/config_local.py
+config_local.py
